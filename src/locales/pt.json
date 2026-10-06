@@ -1,1 +1,478 @@
-{}
+{
+  "site": {
+    "name": "Wiki de Build a Car Collection",
+    "shortName": "Build a Car Collection",
+    "tagline": "Carros, Códigos, Tier Lists e Guias de Prestígio",
+    "description": "Wiki de Build a Car Collection com guias de carros, códigos, dicas de coleção, informações de prestígio, carros raros, atualizações e estratégias para iniciantes no Roblox.",
+    "legalNotice": "Wiki de fãs não oficial. Feita por jogadores, para jogadores."
+  },
+  "nav": {
+    "guide": "Guia",
+    "cars": "Carros",
+    "mechanics": "Mecânicas",
+    "progression": "Progressão",
+    "codes": "Códigos",
+    "updates": "Atualizações",
+    "controls": "Controles",
+    "locations": "Locais",
+    "home": "Início",
+    "menu": "Menu",
+    "toggleTheme": "Alternar tema"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki de Build a Car Collection - Carros, Códigos e Guia",
+      "description": "Wiki de Build a Car Collection com guias de carros, códigos, dicas de coleção, informações de prestígio, carros raros, atualizações e estratégias para iniciantes no Roblox."
+    },
+    "hero": {
+      "eyebrow": "Titã de Coleção de Supercarros",
+      "title": "Wiki de UPD Build a Car Collection",
+      "description": "Construa seu império de carros dos sonhos aceitando os melhores carros, ganhando dinheiro, desbloqueando novos andares e colecionando supercarros raros e caros.",
+      "stats": [
+        "Roblox",
+        "Fountain Entertainment",
+        "Simulação",
+        "Atualizações Frequentes"
+      ],
+      "primaryCta": "Jogar no Roblox",
+      "secondaryCta": "Guia para Iniciantes",
+      "tertiaryCta": "Tier List de Carros",
+      "videoLabel": "Mídia oficial"
+    },
+    "updates": {
+      "title": "Últimas Atualizações",
+      "browse": "Ver Todos os Guias",
+      "viewAll": "Ver Tudo"
+    },
+    "start": {
+      "eyebrow": "Comece Aqui",
+      "title": "Sua Jornada em UPD Build a Car Collection",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para Iniciantes",
+          "description": "Aprenda o ciclo principal: compre um carro acessível que gera renda, faça uma rota de dinheiro confiável e reinvista sem nunca zerar sua reserva."
+        },
+        {
+          "number": "2",
+          "title": "Todos os Códigos",
+          "description": "Resgate os códigos mais recentes de UPD Build a Car Collection para dinheiro grátis, boosts e veículos exclusivos antes que expirem."
+        },
+        {
+          "number": "3",
+          "title": "Dinheiro Rápido",
+          "description": "Descubra as rotas de ganho mais rápidas e hábitos inteligentes de revenda que financiam sua próxima compra a cada sessão."
+        },
+        {
+          "number": "4",
+          "title": "Prestígio e Andares",
+          "description": "Entenda os resets de Prestígio e os desbloqueios de andares para expandir sua garagem e perseguir Carros de Diamante raros."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas Populares",
+      "title": "Em Alta Agora",
+      "quickLinks": [
+        "Códigos",
+        "Tier List de Carros",
+        "Guia de Prestígio",
+        "Últimas Atualizações"
+      ],
+      "cards": [
+        {
+          "badge": "Iniciante",
+          "title": "Guia para Iniciantes",
+          "description": "Tudo o que você precisa do primeiro carro a uma garagem estável e em crescimento.",
+          "href": "/guide/upd-build-a-car-collection-beginner-guide"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Códigos Ativos",
+          "description": "Todos os códigos funcionais de UPD Build a Car Collection com recompensas e passos de resgate.",
+          "href": "/codes/upd-build-a-car-collection-codes"
+        },
+        {
+          "badge": "Popular",
+          "title": "Melhores Carros",
+          "description": "Análise por tiers dos carros que valem a pena mirar em cada orçamento.",
+          "href": "/cars/upd-build-a-car-collection-best-cars"
+        },
+        {
+          "badge": "Novo",
+          "title": "Carros Novos",
+          "description": "Como as últimas adições de veículos mudam sua ordem de compra.",
+          "href": "/cars/upd-build-a-car-collection-new-cars"
+        },
+        {
+          "badge": "Popular",
+          "title": "Dinheiro Rápido",
+          "description": "As rotas de ganho mais rápidas e hábitos de revenda que financiam seu próximo carro.",
+          "href": "/progression/upd-build-a-car-collection-fast-money"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Notas de Patch",
+          "description": "Grandes atualizações, carros novos, Carros de Diamante e mudanças de progressão em um só lugar.",
+          "href": "/updates/upd-build-a-car-collection-patch-notes"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "O que é UPD Build a Car Collection?",
+      "paragraphs": [
+        "UPD Build a Car Collection é um jogo de simulação e tycoon do Roblox da Fountain Entertainment em que o objetivo é simples de dizer e difícil de dominar: montar uma garagem cheia de carros raros e caros. A cada sessão você aceita ou recusa veículos, ganha dinheiro e decide se mantém um carro na coleção ou o revende por lucro.",
+        "O progresso vai além de comprar o supercarro mais chamativo primeiro. Você constrói renda, desbloqueia andares extras para mais espaço de exibição, persegue Carros de Diamante e veículos exclusivos de eventos e, por fim, encara o Prestígio para resetar sua garagem em busca de recompensas de longo prazo. Nossa wiki mapeia todo esse ciclo com passos para iniciantes, rotas de dinheiro, códigos e rankings de tiers de carros."
+      ],
+      "stats": [
+        {
+          "label": "Desenvolvedora",
+          "value": "Fountain Entertainment"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Gênero",
+          "value": "Simulação / Tycoon"
+        },
+        {
+          "label": "Tema",
+          "value": "Coleção de Supercarros"
+        },
+        {
+          "label": "Atualizações",
+          "value": "Frequentes"
+        },
+        {
+          "label": "Foco",
+          "value": "Carros Raros e de Diamante"
+        }
+      ],
+      "cta": "Explorar Todos os Guias"
+    },
+    "explore": {
+      "title": "Explore a Wiki de UPD Build a Car Collection",
+      "description": "Tudo o que você precisa para crescer uma garagem de supercarros: códigos funcionais, um ciclo de dinheiro para iniciantes, cobertura completa de carros e Carros de Diamante, rankings de tiers, dicas de Prestígio, desbloqueios de andares e resumos de atualizações.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Códigos de UPD Build a Car Collection",
+          "description": "Resgate códigos funcionais para dinheiro grátis, boosts e veículos exclusivos, e saiba exatamente onde inseri-los antes que expirem.",
+          "href": "/codes/upd-build-a-car-collection-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Código",
+              "detail": "Resgate códigos do dia da atualização para dinheiro grátis, boosts e veículos limitados"
+            },
+            {
+              "label": "Resgatar",
+              "detail": "Abra o ícone de códigos ou configurações no jogo e cole o texto exatamente"
+            },
+            {
+              "label": "Dica",
+              "detail": "Os códigos diferenciam maiúsculas de minúsculas, então digite com cuidado antes de considerá-los expirados"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guia para Iniciantes de UPD Build a Car Collection",
+          "description": "Um plano prático para a primeira semana: escolha um carro acessível que gera renda, aprenda duas rotas de dinheiro e proteja uma reserva enquanto sua garagem cresce.",
+          "href": "/guide/upd-build-a-car-collection-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Aprenda o mapa e encontre duas rotas de renda confiáveis"
+            },
+            {
+              "label": "2",
+              "detail": "Compre um primeiro carro barato e versátil em vez de um troféu"
+            },
+            {
+              "label": "3",
+              "detail": "Repita uma rotina de ganho e monte uma reserva que você nunca toca"
+            },
+            {
+              "label": "4",
+              "detail": "Adicione um segundo carro que desbloqueie uma nova atividade"
+            },
+            {
+              "label": "5",
+              "detail": "Acompanhe os preços dos carros dos seus sonhos antes de decidir"
+            },
+            {
+              "label": "6",
+              "detail": "Faça uma compra ousada e planejada ainda com dinheiro em mãos"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Carros de UPD Build a Car Collection",
+          "description": "Navegue pelas classes de veículos colecionáveis e saiba quais carros rendem, quais mantêm valor e quais perseguir depois.",
+          "href": "/cars/upd-build-a-car-collection-cars",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Diário",
+              "detail": "Carros de uso diário baratos e tolerantes para o deslocamento comum"
+            },
+            {
+              "label": "Renda",
+              "detail": "O cavalo de batalha que você usa para a atividade que mais paga"
+            },
+            {
+              "label": "Esportivos",
+              "detail": "Cupês equilibrados com mais velocidade e contas de reparo maiores"
+            },
+            {
+              "label": "Muscle",
+              "detail": "Forte velocidade em linha reta que exige frenagem cuidadosa"
+            },
+            {
+              "label": "Utilitários",
+              "detail": "Carros off-road e de carga que desbloqueiam trabalhos em terrenos difíceis"
+            },
+            {
+              "label": "Supercarro",
+              "detail": "Teto de desempenho máximo: compre por último, nunca primeiro"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Tier List de Carros de UPD Build a Car Collection",
+          "description": "Orientação ranqueada sobre quais carros priorizar por valor de coleção, poder de renda e desejo a longo prazo.",
+          "href": "/cars/upd-build-a-car-collection-best-cars",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Ganhadores de elite e exóticos raros que valem construir sua garagem em torno"
+            },
+            {
+              "label": "A",
+              "detail": "Carros confiáveis de alto valor que se pagam rapidamente"
+            },
+            {
+              "label": "B",
+              "detail": "Boas escolhas de meio de jogo que preenchem lacunas sem drenar o caixa"
+            },
+            {
+              "label": "C",
+              "detail": "Carros iniciais e de uso diário úteis no começo, substituídos depois"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Carros de Diamante de UPD Build a Car Collection",
+          "description": "Cobertura dos recém-introduzidos Carros de Diamante, como diferem dos veículos padrão e por que os colecionadores os priorizam.",
+          "href": "/cars/upd-build-a-car-collection-new-cars",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Raridade",
+              "detail": "Carros de Diamante ficam acima dos veículos padrão em valor de coleção"
+            },
+            {
+              "label": "Atualizações",
+              "detail": "Novos Carros de Diamante chegam com grandes patches de conteúdo da UPD"
+            },
+            {
+              "label": "Prioridade",
+              "detail": "Persiga-os quando sua renda e reserva estiverem estáveis"
+            },
+            {
+              "label": "Exibição",
+              "detail": "Exiba-os nos andares desbloqueados para mostrar sua coleção"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Prestígio em UPD Build a Car Collection",
+          "description": "Entenda como o Prestígio reseta seu progresso por recompensas de longo prazo e quando vale a pena dar o salto.",
+          "href": "/progression/upd-build-a-car-collection-unlock-cars",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Analise sua garagem e saldo bancário antes de considerar o Prestígio"
+            },
+            {
+              "label": "2",
+              "detail": "Gaste seu dinheiro em upgrades que carregam valor adiante"
+            },
+            {
+              "label": "3",
+              "detail": "Busque utilidade e completude de coleção antes de velocidade bruta"
+            },
+            {
+              "label": "4",
+              "detail": "Faça Prestígio quando seu ciclo de renda estiver estável e repetível"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Andares de UPD Build a Car Collection",
+          "description": "Como desbloquear andares adicionais e usar o espaço extra para organizar e exibir uma coleção crescente.",
+          "href": "/mechanics/upd-build-a-car-collection-upgrade",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Espaço",
+              "detail": "Cada andar desbloqueado adiciona espaço de exibição para mais veículos"
+            },
+            {
+              "label": "Desbloqueio",
+              "detail": "Atingir marcos de coleção e dinheiro abre o próximo andar"
+            },
+            {
+              "label": "Organização",
+              "detail": "Agrupe carros por classe para que sua garagem pareça uma concessionária"
+            },
+            {
+              "label": "Crescimento",
+              "detail": "Mais andares sustentam o objetivo de longo prazo de uma coleção completa"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Atualizações de UPD Build a Car Collection",
+          "description": "Um resumo contínuo dos principais patches, incluindo carros novos, Carros de Diamante, Prestígios e mudanças de progressão.",
+          "href": "/updates/upd-build-a-car-collection-latest-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Carros",
+              "detail": "Novos veículos padrão adicionados no último patch de conteúdo"
+            },
+            {
+              "label": "Diamante",
+              "detail": "Carros de Diamante introduzidos em grandes janelas de atualização"
+            },
+            {
+              "label": "Prestígio",
+              "detail": "Novos níveis de Prestígio e recompensas de progressão de longo prazo"
+            },
+            {
+              "label": "Patches",
+              "detail": "Mudanças de balanceamento e qualidade de vida que afetam sua garagem"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "description": "Respostas rápidas sobre UPD Build a Car Collection, do ciclo de jogo e códigos a carros, Prestígio e andares.",
+      "items": [
+        {
+          "question": "O que é UPD Build a Car Collection?",
+          "answer": "UPD Build a Car Collection é um jogo de simulação e tycoon do Roblox da Fountain Entertainment. Você aceita ou recusa carros, ganha dinheiro, expande sua garagem, desbloqueia andares extras e persegue carros raros, caros e de Diamante."
+        },
+        {
+          "question": "Como ganho dinheiro rápido em UPD Build a Car Collection?",
+          "answer": "Escolha uma atividade de alto pagamento e repita-a a cada sessão, depois reinvista cerca de metade da sua renda no próximo carro enquanto mantém uma reserva para upgrades e reparos."
+        },
+        {
+          "question": "Existem códigos em UPD Build a Car Collection?",
+          "answer": "Sim. Os códigos de UPD Build a Car Collection costumam ser lançados junto com atualizações do jogo e podem dar dinheiro grátis, boosts e veículos exclusivos. Resgate-os no jogo antes que expirem."
+        },
+        {
+          "question": "O que são Carros de Diamante em UPD Build a Car Collection?",
+          "answer": "Carros de Diamante são colecionáveis premium que ficam acima dos veículos padrão em raridade e valor de coleção. Novos chegam com grandes atualizações de conteúdo de UPD Build a Car Collection."
+        },
+        {
+          "question": "Quando devo fazer Prestígio em UPD Build a Car Collection?",
+          "answer": "O Prestígio em UPD Build a Car Collection é melhor tentado quando seu ciclo de renda está estável e repetível, para que as recompensas do reset pareçam progresso e não um retrocesso."
+        },
+        {
+          "question": "Como desbloqueio mais andares em UPD Build a Car Collection?",
+          "answer": "Os andares são desbloqueados conforme você amplia sua coleção e atinge marcos no jogo. Andares extras dão mais espaço de exibição para os carros raros que você coleciona em UPD Build a Car Collection."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para Construir a Coleção de Carros dos Seus Sonhos?",
+      "description": "Do seu primeiro carro a supercarros raros e andares de Prestígio, nossa wiki da comunidade tem guias gratuitos e atualizados para você.",
+      "primary": "Ler o Guia para Iniciantes",
+      "secondary": "Jogar no Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guia de UPD Build a Car Collection",
+    "overviewDescription": "Tutoriais para iniciantes, dicas e guias passo a passo para montar uma coleção de carros em UPD Build a Car Collection no Roblox."
+  },
+  "cars": {
+    "overviewTitle": "Carros de UPD Build a Car Collection",
+    "overviewDescription": "Listas de carros, melhores carros, carros dos sonhos e builds de carros para ajudar você a escolher e ampliar uma coleção em UPD Build a Car Collection."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecânicas de UPD Build a Car Collection",
+    "overviewDescription": "Sistemas principais explicados, incluindo upgrades, personalização, cores de carros, test drives e como montar ou criar carros em UPD Build a Car Collection."
+  },
+  "progression": {
+    "overviewTitle": "Progressão em UPD Build a Car Collection",
+    "overviewDescription": "Rotas de dinheiro, desbloqueio de carros, atualizações de coleção e dicas de progressão para avançar sua garagem em UPD Build a Car Collection."
+  },
+  "codes": {
+    "overviewTitle": "Códigos de UPD Build a Car Collection",
+    "overviewDescription": "Códigos funcionais de UPD Build a Car Collection, como resgatá-los e as recompensas que dão em dinheiro grátis, boosts e carros."
+  },
+  "updates": {
+    "overviewTitle": "Atualizações de UPD Build a Car Collection",
+    "overviewDescription": "Notas de patch, carros novos e a cobertura das últimas atualizações de UPD Build a Car Collection, mantida em dia conforme novos conteúdos chegam."
+  },
+  "controls": {
+    "overviewTitle": "Controles de UPD Build a Car Collection",
+    "overviewDescription": "Controles de teclado, direção e mobile de UPD Build a Car Collection, com tabelas de teclas para cada plataforma."
+  },
+  "locations": {
+    "overviewTitle": "Locais de UPD Build a Car Collection",
+    "overviewDescription": "Concessionárias, carros escondidos, carros secretos e locais de carros para caçar em UPD Build a Car Collection."
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da Wiki",
+    "activeCodes": "Códigos Ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "playOnRoblox": "Jogar no Roblox",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos Passos",
+    "needHelp": "Precisa de Ajuda?",
+    "relatedReading": "Leitura Relacionada",
+    "relatedGuides": "Guias Relacionados",
+    "readMore": "Ler mais",
+    "officialMedia": "Mídia oficial",
+    "home": "Início",
+    "noGuidesAvailable": "Ainda não há guias disponíveis. Volte em breve!"
+  },
+  "footer": {
+    "aboutTitle": "Wiki de Build a Car Collection",
+    "about": "A Wiki de Build a Car Collection é um hub de guias independente feito por fãs, cobrindo carros, códigos, prestígio, andares e conhecimentos essenciais do jogo para jogadores novos e veteranos.",
+    "quickLinks": "Links Rápidos",
+    "guides": "Guias",
+    "legal": "Jurídico",
+    "copyright": "2026 Wiki de Build a Car Collection. Sem afiliação com a Fountain Entertainment ou a Roblox.",
+    "description": "Tycoon gratuito de coleção de carros no Roblox. Colecione, melhore e faça Prestígio por supercarros raros.",
+    "playGame": "Jogar Build a Car Collection",
+    "officialDiscord": "Discord Oficial",
+    "officialYoutube": "YouTube Oficial",
+    "vvBuilder": "Hub da Comunidade",
+    "beginnerGuide": "Guia para Iniciantes",
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfService": "Termos de Serviço",
+    "carGuides": "Guias de Carros",
+    "codesGuides": "Códigos",
+    "updatesGuides": "Atualizações"
+  }
+}
