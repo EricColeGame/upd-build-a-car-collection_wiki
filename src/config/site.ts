@@ -25,7 +25,7 @@ export const siteConfig: SiteConfig = {
   tagline: "Cars, Codes, Tier Lists & Prestige Guides",
   description: "Build a Car Collection Wiki with car guides, codes, collection tips, prestige information, rare cars, updates, and beginner strategies for Roblox players.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://upd-build-a-car-collection.wiki",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://upd-build-a-car-collection.wiki").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@upd-build-a-car-collection.wiki",
   gameUrl: "https://www.roblox.com/games/139148782992676/Build-a-Car-Collection",
   heroVideoId: "T7D3DhjaowM", // Roblox car collection showcase / gameplay video
   social: {
