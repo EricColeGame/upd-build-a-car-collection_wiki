@@ -34,27 +34,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your Build a Car Collection Journey",
+      "title": "Your UPD Build a Car Collection Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the core loop: buy an affordable earner, run a reliable money route, and reinvest without ever wiping out your cash reserve."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "All Codes",
+          "description": "Redeem the latest UPD Build a Car Collection codes for free cash, boosts, and exclusive vehicles before they expire."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Fast Money",
+          "description": "Discover the fastest earning routes and smart flipping habits that fund your next car purchase every session."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Build a Car Collection."
+          "title": "Prestige & Floors",
+          "description": "Understand Prestige resets and floor unlocks so you can expand your garage and chase rare Diamond Cars."
         }
       ]
     },
@@ -62,78 +62,60 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Codes",
+        "Car Tier List",
+        "Prestige Guide",
+        "Latest Updates"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need from your first car to a stable, growing garage.",
+          "href": "/guide/upd-build-a-car-collection-beginner-guide"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "description": "All working UPD Build a Car Collection codes with rewards and redeem steps.",
+          "href": "/codes/upd-build-a-car-collection-codes"
+        },
+        {
+          "badge": "Popular",
+          "title": "Best Cars",
+          "description": "Tier-by-tier breakdown of the cars worth targeting at every budget.",
+          "href": "/cars/upd-build-a-car-collection-best-cars"
+        },
+        {
+          "badge": "New",
+          "title": "New Cars",
+          "description": "How the latest vehicle additions reshuffle your buying order.",
+          "href": "/cars/upd-build-a-car-collection-new-cars"
+        },
+        {
+          "badge": "Popular",
+          "title": "Fast Money",
+          "description": "The fastest earning routes and flipping habits that fund your next car.",
+          "href": "/progression/upd-build-a-car-collection-fast-money"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Patch Notes",
+          "description": "Major updates, new cars, Diamond Cars, and progression changes in one place.",
+          "href": "/updates/upd-build-a-car-collection-patch-notes"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is Build a Car Collection?",
+      "title": "What is UPD Build a Car Collection?",
       "paragraphs": [
-        "Build a Car Collection is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "UPD Build a Car Collection is a Roblox simulation and tycoon game from Fountain Entertainment where the goal is simple to state and hard to master: grow a garage full of rare and expensive cars. Each session you accept or decline incoming vehicles, earn cash, and decide whether to keep a car for your collection or flip it for a profit.",
+        "Progress is about more than buying the flashiest supercar first. You build income, unlock extra floors for more display space, chase Diamond Cars and exclusive event vehicles, and eventually take on Prestige to reset your garage for long-term rewards. Our wiki maps that whole loop with beginner steps, money routes, codes, and car tier rankings."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Fountain Entertainment"
         },
         {
           "label": "Platform",
@@ -141,158 +123,236 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Simulation / Tycoon"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Theme",
+          "value": "Supercar Collection"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Updates",
+          "value": "Frequent"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Focus",
+          "value": "Rare & Diamond Cars"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore Build a Car Collection Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore the UPD Build a Car Collection Wiki",
+      "description": "Everything you need to grow a supercar garage: working codes, a beginner money loop, complete car and Diamond Car coverage, tier rankings, Prestige advice, floor unlocks, and update summaries.",
       "modules": [
         {
           "order": 1,
-          "name": "Build a Car Collection Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/build-a-car-collection-codes",
-          "displayType": "code-box",
+          "name": "UPD Build a Car Collection Codes",
+          "description": "Redeem working codes for free cash, boosts, and exclusive vehicles, and learn exactly where to enter them before they expire.",
+          "href": "/codes/upd-build-a-car-collection-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
               "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "detail": "Redeem update-day codes for free cash, boosts, and limited vehicles"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Redeem",
+              "detail": "Open the codes or settings icon in-game and paste the string exactly"
             },
             {
               "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "detail": "Codes are case-sensitive, so retype carefully before calling one expired"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/build-a-car-collection-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "UPD Build a Car Collection Beginner Guide",
+          "description": "A practical first-week plan: pick an affordable earner, learn two income routes, and protect a cash reserve as your garage grows.",
+          "href": "/guide/upd-build-a-car-collection-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Learn the map and find two reliable income routes"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Buy a cheap, versatile first car instead of a trophy"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Repeat one earning routine and build a reserve you never touch"
+            },
+            {
+              "label": "4",
+              "detail": "Add a second car that unlocks a new activity"
+            },
+            {
+              "label": "5",
+              "detail": "Track prices on your dream cars before you commit"
+            },
+            {
+              "label": "6",
+              "detail": "Make one deliberate stretch purchase with cash still in hand"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/build-a-car-collection-tier-list",
-          "displayType": "tier-grid",
+          "name": "UPD Build a Car Collection Cars",
+          "description": "Browse collectible vehicle classes and learn which cars earn, which hold value, and which to chase later.",
+          "href": "/cars/upd-build-a-car-collection-cars",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Daily",
+              "detail": "Cheap, forgiving commuter cars that cover everyday travel"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Earner",
+              "detail": "The workhorse you drive for whatever activity pays best"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Sports",
+              "detail": "Balanced coupes with higher speed and higher repair bills"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Muscle",
+              "detail": "Strong straight-line speed that needs careful braking"
+            },
+            {
+              "label": "Utility",
+              "detail": "Off-road and hauling cars that unlock rough-terrain work"
+            },
+            {
+              "label": "Supercar",
+              "detail": "Top performance ceiling: buy last, never first"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/build-a-car-collection-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "UPD Build a Car Collection Car Tier List",
+          "description": "Ranked guidance on which cars to prioritize for collection value, earning power, and long-term desirability.",
+          "href": "/cars/upd-build-a-car-collection-best-cars",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Elite earners and rare exotics worth building your garage around"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "Reliable high-value cars that pay back their price quickly"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Solid mid-game picks that fill gaps without draining cash"
+            },
+            {
+              "label": "C",
+              "detail": "Starter and commuter cars that are useful early, replaced later"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/build-a-car-collection-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "UPD Build a Car Collection Diamond Cars",
+          "description": "Coverage of the newly introduced Diamond Cars, how they differ from standard vehicles, and why collectors prioritize them.",
+          "href": "/cars/upd-build-a-car-collection-new-cars",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Rarity",
+              "detail": "Diamond Cars sit above standard vehicles in collection value"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Updates",
+              "detail": "New Diamond Cars arrive with major UPD content patches"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Priority",
+              "detail": "Chase them once your income and cash reserve are stable"
+            },
+            {
+              "label": "Display",
+              "detail": "Feature them on unlocked floors to show off your collection"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/build-a-car-collection-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "UPD Build a Car Collection Prestige",
+          "description": "Understand how Prestige resets your progress for long-term rewards and when it is worth taking the leap.",
+          "href": "/progression/upd-build-a-car-collection-unlock-cars",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "1",
+              "detail": "Audit your garage and bank balance before you consider Prestige"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "2",
+              "detail": "Spend your cash on upgrades that carry value forward"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "3",
+              "detail": "Chase utility and collection completion before raw speed"
+            },
+            {
+              "label": "4",
+              "detail": "Prestige once your income loop is stable and repeatable"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "UPD Build a Car Collection Floors",
+          "description": "How to unlock additional floors and use the extra space to organize and show off a growing collection.",
+          "href": "/mechanics/upd-build-a-car-collection-upgrade",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Space",
+              "detail": "Each unlocked floor adds display room for more vehicles"
+            },
+            {
+              "label": "Unlock",
+              "detail": "Meeting collection and cash milestones opens the next floor"
+            },
+            {
+              "label": "Layout",
+              "detail": "Group cars by class so your garage reads like a showroom"
+            },
+            {
+              "label": "Growth",
+              "detail": "More floors support the long-term goal of a full collection"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "UPD Build a Car Collection Updates",
+          "description": "A running summary of major patches, including new cars, Diamond Cars, Prestiges, and progression changes.",
+          "href": "/updates/upd-build-a-car-collection-latest-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Cars",
+              "detail": "New standard vehicles added in the latest content patch"
+            },
+            {
+              "label": "Diamond",
+              "detail": "Diamond Cars introduced with major update windows"
+            },
+            {
+              "label": "Prestige",
+              "detail": "New Prestige tiers and long-term progression rewards"
+            },
+            {
+              "label": "Patches",
+              "detail": "Balance and quality-of-life changes that affect your garage"
             }
           ]
         }
@@ -300,27 +360,31 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Build a Car Collection.",
+      "description": "Quick answers about UPD Build a Car Collection, from the gameplay loop and codes to cars, Prestige, and floors.",
       "items": [
         {
-          "question": "What is Build a Car Collection?",
-          "answer": "Build a Car Collection is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is UPD Build a Car Collection?",
+          "answer": "UPD Build a Car Collection is a Roblox simulation and tycoon game by Fountain Entertainment. You accept or decline cars, earn cash, expand your garage, unlock extra floors, and chase rare, expensive, and Diamond Cars."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do I earn money fast in UPD Build a Car Collection?",
+          "answer": "Pick one high-payout activity and repeat it every session, then reinvest roughly half of your income into the next car while keeping a reserve for upgrades and repairs."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Are there codes in UPD Build a Car Collection?",
+          "answer": "Yes. UPD Build a Car Collection codes are usually released alongside game updates and can grant free cash, boosts, and exclusive vehicles. Redeem them in-game before they expire."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What are Diamond Cars in UPD Build a Car Collection?",
+          "answer": "Diamond Cars are premium collectibles that sit above standard vehicles in rarity and collection value. New ones arrive with major UPD Build a Car Collection content updates."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "When should I Prestige in UPD Build a Car Collection?",
+          "answer": "Prestige in UPD Build a Car Collection is best attempted once your income loop is stable and repeatable, so the reset rewards feel like progress rather than a setback."
+        },
+        {
+          "question": "How do I unlock more floors in UPD Build a Car Collection?",
+          "answer": "Floors unlock as you grow your collection and hit in-game milestones. Extra floors give you more display space for the rare cars you collect in UPD Build a Car Collection."
         }
       ]
     },
