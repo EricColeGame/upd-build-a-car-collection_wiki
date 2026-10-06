@@ -6,7 +6,19 @@
     "description": "Build a Car Collection Wiki with car guides, codes, collection tips, prestige information, rare cars, updates, and beginner strategies for Roblox players.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "cars": "Cars",
+    "mechanics": "Mechanics",
+    "progression": "Progression",
+    "codes": "Codes",
+    "updates": "Updates",
+    "controls": "Controls",
+    "locations": "Locations",
+    "home": "Home",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
+  },
   "home": {
     "meta": {
       "title": "Build a Car Collection Wiki - Cars, Codes & Guide",
@@ -395,7 +407,38 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "UPD Build a Car Collection Guide",
+    "overviewDescription": "Beginner walkthroughs, tips, and step-by-step guides for building a car collection in UPD Build a Car Collection on Roblox."
+  },
+  "cars": {
+    "overviewTitle": "UPD Build a Car Collection Cars",
+    "overviewDescription": "Car lists, best cars, dream cars, and car builds to help you choose and grow a collection in UPD Build a Car Collection."
+  },
+  "mechanics": {
+    "overviewTitle": "UPD Build a Car Collection Mechanics",
+    "overviewDescription": "Core systems explained, including upgrades, customization, car colors, test drives, and how to build or create cars in UPD Build a Car Collection."
+  },
+  "progression": {
+    "overviewTitle": "UPD Build a Car Collection Progression",
+    "overviewDescription": "Money routes, unlocking cars, collection updates, and new update progression tips for advancing your garage in UPD Build a Car Collection."
+  },
+  "codes": {
+    "overviewTitle": "UPD Build a Car Collection Codes",
+    "overviewDescription": "Working UPD Build a Car Collection codes, how to redeem them, and the rewards they grant for free cash, boosts, and cars."
+  },
+  "updates": {
+    "overviewTitle": "UPD Build a Car Collection Updates",
+    "overviewDescription": "Patch notes, new cars, and the latest update coverage for UPD Build a Car Collection, kept current as new content drops."
+  },
+  "controls": {
+    "overviewTitle": "UPD Build a Car Collection Controls",
+    "overviewDescription": "Keyboard, driving, and mobile controls for UPD Build a Car Collection, with keybind tables for every platform."
+  },
+  "locations": {
+    "overviewTitle": "UPD Build a Car Collection Locations",
+    "overviewDescription": "Car dealerships, hidden cars, secret cars, and car locations to hunt down in UPD Build a Car Collection."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -426,10 +469,10 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Community Hub",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Car Guides",
-    "bossGuides": "Prestige Guides",
-    "buildGuide": "Collection Guide",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "carGuides": "Car Guides",
+    "codesGuides": "Codes",
+    "updatesGuides": "Updates"
   }
 }
