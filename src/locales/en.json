@@ -2,8 +2,8 @@
   "site": {
     "name": "Build a Car Collection Wiki",
     "shortName": "Build a Car Collection",
-    "tagline": "Cars, Codes, Tier Lists & Prestige Guides",
-    "description": "Build a Car Collection Wiki with car guides, codes, collection tips, prestige information, rare cars, updates, and beginner strategies for Roblox players.",
+    "tagline": "Cars, Collections, Prestige & Update Guides",
+    "description": "Build a Car Collection Wiki with car guides, collection tips, prestige information, rare cars, updates, and beginner strategies for Roblox players.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -21,23 +21,23 @@
   },
   "home": {
     "meta": {
-      "title": "Build a Car Collection Wiki - Cars, Codes & Guide",
-      "description": "Build a Car Collection Wiki with car guides, codes, collection tips, prestige information, rare cars, updates, and beginner strategies for Roblox players."
+      "title": "Build a Car Collection Wiki - Cars, Collection & Guide",
+      "description": "Build a Car Collection Wiki with car guides, collection tips, prestige information, rare cars, updates, and beginner strategies for Roblox players."
     },
     "hero": {
-      "eyebrow": "Supercar Collection Tycoon",
-      "title": "UPD Build a Car Collection Wiki",
-      "description": "Build your dream car empire by accepting the best cars, earning money, unlocking new floors, and collecting rare and expensive supercars.",
+      "eyebrow": "Roblox Car Collection Simulator",
+      "title": "Build a Car Collection Wiki",
+      "description": "Build your dream car collection by accepting the cars you want, earning in-game money, unlocking new floors, and collecting rare and expensive supercars.",
       "stats": [
         "Roblox",
         "Fountain Entertainment",
-        "Simulation",
+        "Collection Simulator",
         "Frequent Updates"
       ],
       "primaryCta": "Play on Roblox",
       "secondaryCta": "Beginner Guide",
-      "tertiaryCta": "Car Tier List",
-      "videoLabel": "Official media"
+      "tertiaryCta": "Car Guides",
+      "videoLabel": "Media not documented"
     },
     "updates": {
       "title": "Latest Updates",
@@ -46,22 +46,22 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your UPD Build a Car Collection Journey",
+      "title": "Your Build a Car Collection Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Learn the core loop: buy an affordable earner, run a reliable money route, and reinvest without ever wiping out your cash reserve."
+          "description": "Learn the core loop: accept or decline offered cars, earn money, and expand your collection without overspending."
         },
         {
           "number": "2",
-          "title": "All Codes",
-          "description": "Redeem the latest UPD Build a Car Collection codes for free cash, boosts, and exclusive vehicles before they expire."
+          "title": "Collection Tips",
+          "description": "Smart habits for growing your garage and deciding which offered cars to keep or decline."
         },
         {
           "number": "3",
           "title": "Fast Money",
-          "description": "Discover the fastest earning routes and smart flipping habits that fund your next car purchase every session."
+          "description": "Efficient earning routines and smart collection decisions that fund your next car."
         },
         {
           "number": "4",
@@ -74,8 +74,8 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Codes",
-        "Car Tier List",
+        "Guide",
+        "Car Guides",
         "Prestige Guide",
         "Latest Updates"
       ],
@@ -87,42 +87,42 @@
           "href": "/guide/upd-build-a-car-collection-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working UPD Build a Car Collection codes with rewards and redeem steps.",
+          "badge": "Guide",
+          "title": "Collection Tips",
+          "description": "Practical advice for accepting, declining, and organizing your growing car collection.",
           "href": "/codes/upd-build-a-car-collection-codes"
         },
         {
           "badge": "Popular",
           "title": "Best Cars",
-          "description": "Tier-by-tier breakdown of the cars worth targeting at every budget.",
+          "description": "Guidance on which cars are worth targeting at each stage of your collection.",
           "href": "/cars/upd-build-a-car-collection-best-cars"
         },
         {
           "badge": "New",
           "title": "New Cars",
-          "description": "How the latest vehicle additions reshuffle your buying order.",
+          "description": "How the latest vehicle additions can change your collection priorities.",
           "href": "/cars/upd-build-a-car-collection-new-cars"
         },
         {
           "badge": "Popular",
           "title": "Fast Money",
-          "description": "The fastest earning routes and flipping habits that fund your next car.",
+          "description": "Efficient earning routines and smart collection decisions that fund your next car.",
           "href": "/progression/upd-build-a-car-collection-fast-money"
         },
         {
           "badge": "Updated",
-          "title": "Patch Notes",
+          "title": "Update Summaries",
           "description": "Major updates, new cars, Diamond Cars, and progression changes in one place.",
           "href": "/updates/upd-build-a-car-collection-patch-notes"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is UPD Build a Car Collection?",
+      "title": "What is Build a Car Collection?",
       "paragraphs": [
-        "UPD Build a Car Collection is a Roblox simulation and tycoon game from Fountain Entertainment where the goal is simple to state and hard to master: grow a garage full of rare and expensive cars. Each session you accept or decline incoming vehicles, earn cash, and decide whether to keep a car for your collection or flip it for a profit.",
-        "Progress is about more than buying the flashiest supercar first. You build income, unlock extra floors for more display space, chase Diamond Cars and exclusive event vehicles, and eventually take on Prestige to reset your garage for long-term rewards. Our wiki maps that whole loop with beginner steps, money routes, codes, and car tier rankings."
+        "Build a Car Collection is a Roblox collection simulator from Fountain Entertainment where the goal is simple to state and hard to master: grow a garage full of rare and expensive cars. Cars are offered to you and you accept or decline each one, earning in-game money and expanding your personal collection.",
+        "Progress is about more than buying the flashiest supercar first. You build income, unlock extra floors for more display space, chase Diamond Cars, and eventually take on Prestige to reset your garage for long-term rewards. Our wiki maps that whole loop with beginner steps, money routes, and car guidance."
       ],
       "stats": [
         {
@@ -135,11 +135,11 @@
         },
         {
           "label": "Genre",
-          "value": "Simulation / Tycoon"
+          "value": "Collection Simulator"
         },
         {
           "label": "Theme",
-          "value": "Supercar Collection"
+          "value": "Car Collection"
         },
         {
           "label": "Updates",
@@ -153,66 +153,66 @@
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore the UPD Build a Car Collection Wiki",
-      "description": "Everything you need to grow a supercar garage: working codes, a beginner money loop, complete car and Diamond Car coverage, tier rankings, Prestige advice, floor unlocks, and update summaries.",
+      "title": "Explore the Build a Car Collection Wiki",
+      "description": "Everything you need to grow your car collection: a beginner money loop, car and Diamond Car coverage, collection advice, Prestige guidance, floor unlocks, and update summaries.",
       "modules": [
         {
           "order": 1,
-          "name": "UPD Build a Car Collection Codes",
-          "description": "Redeem working codes for free cash, boosts, and exclusive vehicles, and learn exactly where to enter them before they expire.",
+          "name": "Build a Car Collection Codes",
+          "description": "There is no documented code system in Build a Car Collection. This page explains what is known and points to in-game ways to earn money.",
           "href": "/codes/upd-build-a-car-collection-codes",
           "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "Redeem update-day codes for free cash, boosts, and limited vehicles"
+              "label": "Status",
+              "detail": "No working codes are documented for Build a Car Collection"
             },
             {
-              "label": "Redeem",
-              "detail": "Open the codes or settings icon in-game and paste the string exactly"
+              "label": "Alternative",
+              "detail": "Earn money by accepting cars that fit your collection and budget"
             },
             {
               "label": "Tip",
-              "detail": "Codes are case-sensitive, so retype carefully before calling one expired"
+              "detail": "Do not trust code claims that are not from the developer"
             }
           ]
         },
         {
           "order": 2,
-          "name": "UPD Build a Car Collection Beginner Guide",
-          "description": "A practical first-week plan: pick an affordable earner, learn two income routes, and protect a cash reserve as your garage grows.",
+          "name": "Build a Car Collection Beginner Guide",
+          "description": "A practical first-week plan: learn the accept-or-decline flow, build a cash reserve, and expand your garage step by step.",
           "href": "/guide/upd-build-a-car-collection-beginner-guide",
           "displayType": "step-by-step",
           "highlights": [
             {
               "label": "1",
-              "detail": "Learn the map and find two reliable income routes"
+              "detail": "Learn how cars are offered and when to accept or decline"
             },
             {
               "label": "2",
-              "detail": "Buy a cheap, versatile first car instead of a trophy"
+              "detail": "Build a cash reserve before chasing expensive cars"
             },
             {
               "label": "3",
-              "detail": "Repeat one earning routine and build a reserve you never touch"
+              "detail": "Repeat one earning routine and reinvest in your collection"
             },
             {
               "label": "4",
-              "detail": "Add a second car that unlocks a new activity"
+              "detail": "Unlock more cars and more floors as your collection grows"
             },
             {
               "label": "5",
-              "detail": "Track prices on your dream cars before you commit"
+              "detail": "Track which cars you need for a rarer collection"
             },
             {
               "label": "6",
-              "detail": "Make one deliberate stretch purchase with cash still in hand"
+              "detail": "Make one deliberate purchase with cash still in hand"
             }
           ]
         },
         {
           "order": 3,
-          "name": "UPD Build a Car Collection Cars",
+          "name": "Build a Car Collection Cars",
           "description": "Browse collectible vehicle classes and learn which cars earn, which hold value, and which to chase later.",
           "href": "/cars/upd-build-a-car-collection-cars",
           "displayType": "card-list",
@@ -245,32 +245,32 @@
         },
         {
           "order": 4,
-          "name": "UPD Build a Car Collection Car Tier List",
-          "description": "Ranked guidance on which cars to prioritize for collection value, earning power, and long-term desirability.",
+          "name": "Build a Car Collection Car Guidance",
+          "description": "Practical guidance on which cars to prioritize for collection value, earning power, and long-term desirability. No official tier list is documented.",
           "href": "/cars/upd-build-a-car-collection-best-cars",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S",
-              "detail": "Elite earners and rare exotics worth building your garage around"
+              "label": "Priority",
+              "detail": "Focus on cars that help you earn money and fill collection gaps"
             },
             {
-              "label": "A",
-              "detail": "Reliable high-value cars that pay back their price quickly"
+              "label": "Value",
+              "detail": "Keep cars that improve your collection's rarity and value"
             },
             {
-              "label": "B",
-              "detail": "Solid mid-game picks that fill gaps without draining cash"
+              "label": "Mid-game",
+              "detail": "Balance income cars with collectible picks as your garage grows"
             },
             {
-              "label": "C",
-              "detail": "Starter and commuter cars that are useful early, replaced later"
+              "label": "Starter",
+              "detail": "Begin with affordable cars and replace them as you progress"
             }
           ]
         },
         {
           "order": 5,
-          "name": "UPD Build a Car Collection Diamond Cars",
+          "name": "Build a Car Collection Diamond Cars",
           "description": "Coverage of the newly introduced Diamond Cars, how they differ from standard vehicles, and why collectors prioritize them.",
           "href": "/cars/upd-build-a-car-collection-new-cars",
           "displayType": "card-list",
@@ -281,7 +281,7 @@
             },
             {
               "label": "Updates",
-              "detail": "New Diamond Cars arrive with major UPD content patches"
+              "detail": "New Diamond Cars arrive with major content updates"
             },
             {
               "label": "Priority",
@@ -295,7 +295,7 @@
         },
         {
           "order": 6,
-          "name": "UPD Build a Car Collection Prestige",
+          "name": "Build a Car Collection Prestige",
           "description": "Understand how Prestige resets your progress for long-term rewards and when it is worth taking the leap.",
           "href": "/progression/upd-build-a-car-collection-unlock-cars",
           "displayType": "step-by-step",
@@ -320,7 +320,7 @@
         },
         {
           "order": 7,
-          "name": "UPD Build a Car Collection Floors",
+          "name": "Build a Car Collection Floors",
           "description": "How to unlock additional floors and use the extra space to organize and show off a growing collection.",
           "href": "/mechanics/upd-build-a-car-collection-upgrade",
           "displayType": "card-list",
@@ -345,7 +345,7 @@
         },
         {
           "order": 8,
-          "name": "UPD Build a Car Collection Updates",
+          "name": "Build a Car Collection Updates",
           "description": "A running summary of major patches, including new cars, Diamond Cars, Prestiges, and progression changes.",
           "href": "/updates/upd-build-a-car-collection-latest-update",
           "displayType": "card-list",
@@ -372,31 +372,31 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers about UPD Build a Car Collection, from the gameplay loop and codes to cars, Prestige, and floors.",
+      "description": "Quick answers about Build a Car Collection, from the gameplay loop and collection tips to cars, Prestige, and floors.",
       "items": [
         {
-          "question": "What is UPD Build a Car Collection?",
-          "answer": "UPD Build a Car Collection is a Roblox simulation and tycoon game by Fountain Entertainment. You accept or decline cars, earn cash, expand your garage, unlock extra floors, and chase rare, expensive, and Diamond Cars."
+          "question": "What is Build a Car Collection?",
+          "answer": "Build a Car Collection is a Roblox collection simulator by Fountain Entertainment. Cars are offered to you and you accept or decline each one, earn in-game money, expand your collection, unlock more cars and more floors, and hunt rare and expensive supercars."
         },
         {
-          "question": "How do I earn money fast in UPD Build a Car Collection?",
+          "question": "How do I earn money fast in Build a Car Collection?",
           "answer": "Pick one high-payout activity and repeat it every session, then reinvest roughly half of your income into the next car while keeping a reserve for upgrades and repairs."
         },
         {
-          "question": "Are there codes in UPD Build a Car Collection?",
-          "answer": "Yes. UPD Build a Car Collection codes are usually released alongside game updates and can grant free cash, boosts, and exclusive vehicles. Redeem them in-game before they expire."
+          "question": "Are there codes in Build a Car Collection?",
+          "answer": "There is no documented code system in Build a Car Collection. The official game description does not advertise codes. Any code claims you see should be treated as unverified unless confirmed by the developer."
         },
         {
-          "question": "What are Diamond Cars in UPD Build a Car Collection?",
-          "answer": "Diamond Cars are premium collectibles that sit above standard vehicles in rarity and collection value. New ones arrive with major UPD Build a Car Collection content updates."
+          "question": "What are Diamond Cars in Build a Car Collection?",
+          "answer": "Diamond Cars are premium collectibles that sit above standard vehicles in rarity and collection value. New ones arrive with major Build a Car Collection content updates."
         },
         {
-          "question": "When should I Prestige in UPD Build a Car Collection?",
-          "answer": "Prestige in UPD Build a Car Collection is best attempted once your income loop is stable and repeatable, so the reset rewards feel like progress rather than a setback."
+          "question": "When should I Prestige in Build a Car Collection?",
+          "answer": "Prestige in Build a Car Collection is best attempted once your income loop is stable and repeatable, so the reset rewards feel like progress rather than a setback."
         },
         {
-          "question": "How do I unlock more floors in UPD Build a Car Collection?",
-          "answer": "Floors unlock as you grow your collection and hit in-game milestones. Extra floors give you more display space for the rare cars you collect in UPD Build a Car Collection."
+          "question": "How do I unlock more floors in Build a Car Collection?",
+          "answer": "Floors unlock as you grow your collection and hit in-game milestones. Extra floors give you more display space for the rare cars you collect in Build a Car Collection."
         }
       ]
     },
@@ -408,36 +408,36 @@
     }
   },
   "guide": {
-    "overviewTitle": "UPD Build a Car Collection Guide",
-    "overviewDescription": "Beginner walkthroughs, tips, and step-by-step guides for building a car collection in UPD Build a Car Collection on Roblox."
+    "overviewTitle": "Build a Car Collection Guide",
+    "overviewDescription": "Beginner walkthroughs, tips, and step-by-step guides for building a car collection in Build a Car Collection on Roblox."
   },
   "cars": {
-    "overviewTitle": "UPD Build a Car Collection Cars",
-    "overviewDescription": "Car lists, best cars, dream cars, and car builds to help you choose and grow a collection in UPD Build a Car Collection."
+    "overviewTitle": "Build a Car Collection Cars",
+    "overviewDescription": "Car lists, best cars, dream cars, and car builds to help you choose and grow a collection in Build a Car Collection."
   },
   "mechanics": {
-    "overviewTitle": "UPD Build a Car Collection Mechanics",
-    "overviewDescription": "Core systems explained, including upgrades, customization, car colors, test drives, and how to build or create cars in UPD Build a Car Collection."
+    "overviewTitle": "Build a Car Collection Mechanics",
+    "overviewDescription": "Core systems explained, including upgrades, customization, car colors, test drives, and how to build or create cars in Build a Car Collection."
   },
   "progression": {
-    "overviewTitle": "UPD Build a Car Collection Progression",
-    "overviewDescription": "Money routes, unlocking cars, collection updates, and new update progression tips for advancing your garage in UPD Build a Car Collection."
+    "overviewTitle": "Build a Car Collection Progression",
+    "overviewDescription": "Money routes, unlocking cars, collection updates, and new update progression tips for advancing your garage in Build a Car Collection."
   },
   "codes": {
-    "overviewTitle": "UPD Build a Car Collection Codes",
-    "overviewDescription": "Working UPD Build a Car Collection codes, how to redeem them, and the rewards they grant for free cash, boosts, and cars."
+    "overviewTitle": "Build a Car Collection Codes",
+    "overviewDescription": "Build a Car Collection does not have a documented code system. This page explains what is known and points to in-game ways to earn money instead."
   },
   "updates": {
-    "overviewTitle": "UPD Build a Car Collection Updates",
-    "overviewDescription": "Patch notes, new cars, and the latest update coverage for UPD Build a Car Collection, kept current as new content drops."
+    "overviewTitle": "Build a Car Collection Updates",
+    "overviewDescription": "Patch notes, new cars, and the latest update coverage for Build a Car Collection, kept current as new content drops."
   },
   "controls": {
-    "overviewTitle": "UPD Build a Car Collection Controls",
-    "overviewDescription": "Keyboard, driving, and mobile controls for UPD Build a Car Collection, with keybind tables for every platform."
+    "overviewTitle": "Build a Car Collection Controls",
+    "overviewDescription": "Keyboard, driving, and mobile controls for Build a Car Collection, with keybind tables for every platform."
   },
   "locations": {
-    "overviewTitle": "UPD Build a Car Collection Locations",
-    "overviewDescription": "Car dealerships, hidden cars, secret cars, and car locations to hunt down in UPD Build a Car Collection."
+    "overviewTitle": "Build a Car Collection Locations",
+    "overviewDescription": "Car dealerships, hidden cars, secret cars, and car locations to hunt down in Build a Car Collection."
   },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
@@ -458,12 +458,12 @@
   },
   "footer": {
     "aboutTitle": "Build a Car Collection Wiki",
-    "about": "Build a Car Collection Wiki is an independent fan-built guide hub covering cars, codes, prestige, floors, and essential game knowledge for new and veteran players alike.",
+    "about": "Build a Car Collection Wiki is an independent fan-built guide hub covering cars, prestige, floors, and essential game knowledge for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
     "copyright": "2026 Build a Car Collection Wiki. Not affiliated with Fountain Entertainment or Roblox.",
-    "description": "Free Roblox car collection tycoon. Collect, upgrade, and Prestige for rare supercars.",
+    "description": "Free Roblox car collection simulator. Collect, upgrade, and Prestige for rare supercars.",
     "playGame": "Play Build a Car Collection",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
